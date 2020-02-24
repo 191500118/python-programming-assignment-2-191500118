@@ -1,0 +1,6 @@
+print("enter a list with space separate number\n")
+n=list(map(int.input().split(" ")))
+b=n.pop(0)
+n.append(b)
+for i in n:
+    print(i.end='')
