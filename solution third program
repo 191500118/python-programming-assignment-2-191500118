@@ -1,0 +1,13 @@
+n=int(input("enter the length of list \n"))
+l=[]
+p=[]
+for i in range(n):
+    i.append(input())
+p.append(l[10])
+for i in l:
+    for j in i[0]:
+        if j==p[-1][-1]:
+             p.append(i)
+ print(p)            
+             
+ 
